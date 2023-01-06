@@ -8,3 +8,5 @@
 [191. Number of 1 Bits](https://github.com/janice880624/leetcode/blob/main/191.ipynb)
 
 [1281. Subtract the Product and Sum of Digits of an Integers](https://github.com/janice880624/leetcode/blob/main/1281.ipynb)
+
+[976. Largest Perimeter Triangle](https://github.com/janice880624/leetcode/blob/main/976.ipynb)
