@@ -13,3 +13,5 @@
 [976. Largest Perimeter Triangle](https://github.com/janice880624/leetcode/blob/main/976.ipynb)
 
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/janice880624/leetcode/blob/main/1779.ipynb)
+
+[1822. Sign of the Product of an Array](https://github.com/janice880624/leetcode/blob/main/1822.ipynb)
