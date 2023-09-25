@@ -1,6 +1,15 @@
 # leetcode
 
-## Programming Skills I
+## 0925
+[102. Binary Tree Level Order Traversal](https://github.com/janice880624/leetcode/blob/main/0925/102.ipynb)
+
+[264. Ugly Number II](https://github.com/janice880624/leetcode/blob/main/0925/102.ipynb)
+
+[957. Prison Cells After N Days](https://github.com/janice880624/leetcode/blob/main/0925/957.ipynb)
+
+[441. Arranging Coins](https://github.com/janice880624/leetcode/blob/main/0925/441.ipynb)
+
+## other 
 
 [1523. Count Odd Numbers in an Interval Range](https://github.com/janice880624/leetcode/blob/main/1523.ipynb)
 
