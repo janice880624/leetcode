@@ -9,6 +9,13 @@
 
 [441. Arranging Coins](https://github.com/janice880624/leetcode/blob/main/0925/441.ipynb)
 
+## 0925
+[9. Palindrome Number](https://github.com/janice880624/leetcode/blob/main/0926/9.ipynb)
+
+[234. Palindrome Linked List](https://github.com/janice880624/leetcode/blob/main/0926/234.ipynb)
+
+[316. Remove Duplicate Letters](https://github.com/janice880624/leetcode/blob/main/0926/316.ipynb)
+
 ## other 
 
 [1523. Count Odd Numbers in an Interval Range](https://github.com/janice880624/leetcode/blob/main/1523.ipynb)
