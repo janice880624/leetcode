@@ -9,12 +9,20 @@
 
 [441. Arranging Coins](https://github.com/janice880624/leetcode/blob/main/0925/441.ipynb)
 
-## 0925
+## 0926
 [9. Palindrome Number](https://github.com/janice880624/leetcode/blob/main/0926/9.ipynb)
 
 [234. Palindrome Linked List](https://github.com/janice880624/leetcode/blob/main/0926/234.ipynb)
 
 [316. Remove Duplicate Letters](https://github.com/janice880624/leetcode/blob/main/0926/316.ipynb)
+
+
+## 0927
+[28. Find the Index of the First Occurrence in a String](https://github.com/janice880624/leetcode/blob/main/0927/28.ipynb)
+
+[316. Remove Duplicate Letters](https://github.com/janice880624/leetcode/blob/main/0927/316.ipynb)
+
+[1768. Merge Strings Alternately](https://github.com/janice880624/leetcode/blob/main/0927/1768.ipynb)
 
 ## other 
 
