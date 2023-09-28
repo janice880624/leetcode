@@ -20,9 +20,16 @@
 ## 0927
 [28. Find the Index of the First Occurrence in a String](https://github.com/janice880624/leetcode/blob/main/0927/28.ipynb)
 
-[316. Remove Duplicate Letters](https://github.com/janice880624/leetcode/blob/main/0927/316.ipynb)
+[880. Decoded String at Index](https://github.com/janice880624/leetcode/blob/main/0927/880.ipynb)
 
 [1768. Merge Strings Alternately](https://github.com/janice880624/leetcode/blob/main/0927/1768.ipynb)
+
+## 0928
+[905. Sort Array By Parity](https://github.com/janice880624/leetcode/blob/main/0928/905.ipynb)
+
+[242. Valid Anagram](https://github.com/janice880624/leetcode/blob/main/0928/242.ipynb)
+
+[459. Repeated Substring Pattern](https://github.com/janice880624/leetcode/blob/main/0928/459.ipynb)
 
 ## other 
 
