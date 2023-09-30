@@ -31,13 +31,26 @@
 
 [459. Repeated Substring Pattern](https://github.com/janice880624/leetcode/blob/main/0928/459.ipynb)
 
+# 0929
+[66. Plus One](https://github.com/janice880624/leetcode/blob/main/0929/66.ipynb)
+
+[283. Move Zeroes](https://github.com/janice880624/leetcode/blob/main/0929/283.ipynb)
+
+[896. Monotonic Array](https://github.com/janice880624/leetcode/blob/main/0929/896.ipynb)
+
+
+# 0930
+[191. Number of 1 Bits](https://github.com/janice880624/leetcode/blob/main/0930/191.ipynb)
+
+[202. Happy Number](https://github.com/janice880624/leetcode/blob/main/202.ipynb)
+
+[456. 132 Pattern](https://github.com/janice880624/leetcode/blob/main/456.ipynb)
+
 ## other 
 
 [1523. Count Odd Numbers in an Interval Range](https://github.com/janice880624/leetcode/blob/main/1523.ipynb)
 
 [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/janice880624/leetcode/blob/main/1491.ipynb)
-
-[191. Number of 1 Bits](https://github.com/janice880624/leetcode/blob/main/191.ipynb)
 
 [1281. Subtract the Product and Sum of Digits of an Integers](https://github.com/janice880624/leetcode/blob/main/1281.ipynb)
 
@@ -49,4 +62,4 @@
 
 [1502. Can Make Arithmetic Progression From Sequence](https://github.com/janice880624/leetcode/blob/main/1502.ipynb)
 
-[202. Happy Number](https://github.com/janice880624/leetcode/blob/main/202.ipynb)
+
