@@ -46,6 +46,13 @@
 
 [456. 132 Pattern](https://github.com/janice880624/leetcode/blob/main/456.ipynb)
 
+# 1001
+[557. Reverse Words in a String III](https://github.com/janice880624/leetcode/blob/main/1001/557.ipynb)
+
+[976. Largest Perimeter Triangle](https://github.com/janice880624/leetcode/blob/main/1001/976.ipynb)
+
+[1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/janice880624/leetcode/blob/main/1001/1281.ipynb)
+
 ## other 
 
 [1523. Count Odd Numbers in an Interval Range](https://github.com/janice880624/leetcode/blob/main/1523.ipynb)
